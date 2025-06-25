@@ -19,24 +19,6 @@
                 "string_value": "transit.airports",
                 "children": [
                   {
-                    "name": "Arrival Hall",
-                    "description": "Locations for meeting passengers arriving on flights",
-                    "enumeration_id": 10101,
-                    "string_value": "transit.airports.arrivals_hall" 
-                  },
-                  {
-                    "name": "Baggage Claim",
-                    "description": "Locations to retrieve baggage not carried during a flight",
-                    "enumeration_id": 10102,
-                    "string_value": "transit.airports.baggage_claim" 
-                  },
-                  {
-                    "name": "Departures Hall",
-                    "description": "Location for dropping off passengers leaving on flights",
-                    "enumeration_id": 10103,
-                    "string_value": "transit.airports.departures_hall" 
-                  },
-                  {
                     "name": "Food Court",
                     "description": "Location within an airport for food, typically casual",
                     "enumeration_id": 10104,
@@ -59,6 +41,12 @@
                     "description": "Retail areas contained within facilities primarily used for servicing flights",
                     "enumeration_id": 10107,
                     "string_value": "transit.airports.shopping_area" 
+                  },
+                  {
+                    "name": "Chai Cafe",
+                    "description": "Chai serving Cafe",
+                    "enumeration_id": 10108,
+                    "string_value": "transit.airports.chai_cafe" 
                   }
                 ]
               },
